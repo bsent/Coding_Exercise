@@ -1,0 +1,9 @@
+C:\Users\sentekib\source\repos\Exam\JobLibs\bin\Debug\netcoreapp2.1\JobLib.deps.json
+C:\Users\sentekib\source\repos\Exam\JobLibs\bin\Debug\netcoreapp2.1\JobLib.dll
+C:\Users\sentekib\source\repos\Exam\JobLibs\bin\Debug\netcoreapp2.1\JobLib.pdb
+C:\Users\sentekib\source\repos\Exam\JobLibs\obj\Debug\netcoreapp2.1\JobLibs.csproj.CoreCompileInputs.cache
+C:\Users\sentekib\source\repos\Exam\JobLibs\obj\Debug\netcoreapp2.1\JobLibs.AssemblyInfoInputs.cache
+C:\Users\sentekib\source\repos\Exam\JobLibs\obj\Debug\netcoreapp2.1\JobLibs.AssemblyInfo.cs
+C:\Users\sentekib\source\repos\Exam\JobLibs\obj\Debug\netcoreapp2.1\JobLib.dll
+C:\Users\sentekib\source\repos\Exam\JobLibs\obj\Debug\netcoreapp2.1\JobLib.pdb
+C:\Users\sentekib\source\repos\Exam\JobLibs\obj\Debug\netcoreapp2.1\JobLibs.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\sentekib\source\repos\Exam\ConsoleApp1\bin\Debug\netcoreapp2.1\Exercise.deps.json
+C:\Users\sentekib\source\repos\Exam\ConsoleApp1\bin\Debug\netcoreapp2.1\Exercise.runtimeconfig.json
+C:\Users\sentekib\source\repos\Exam\ConsoleApp1\bin\Debug\netcoreapp2.1\Exercise.runtimeconfig.dev.json
+C:\Users\sentekib\source\repos\Exam\ConsoleApp1\bin\Debug\netcoreapp2.1\Exercise.dll
+C:\Users\sentekib\source\repos\Exam\ConsoleApp1\bin\Debug\netcoreapp2.1\Exercise.pdb
+C:\Users\sentekib\source\repos\Exam\ConsoleApp1\bin\Debug\netcoreapp2.1\JobLib.dll
+C:\Users\sentekib\source\repos\Exam\ConsoleApp1\bin\Debug\netcoreapp2.1\JobLib.pdb
+C:\Users\sentekib\source\repos\Exam\ConsoleApp1\obj\Debug\netcoreapp2.1\Exercise.csprojAssemblyReference.cache
+C:\Users\sentekib\source\repos\Exam\ConsoleApp1\obj\Debug\netcoreapp2.1\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\sentekib\source\repos\Exam\ConsoleApp1\obj\Debug\netcoreapp2.1\Exercise.AssemblyInfoInputs.cache
+C:\Users\sentekib\source\repos\Exam\ConsoleApp1\obj\Debug\netcoreapp2.1\Exercise.AssemblyInfo.cs
+C:\Users\sentekib\source\repos\Exam\ConsoleApp1\obj\Debug\netcoreapp2.1\Exercise.csproj.CopyComplete
+C:\Users\sentekib\source\repos\Exam\ConsoleApp1\obj\Debug\netcoreapp2.1\Exercise.dll
+C:\Users\sentekib\source\repos\Exam\ConsoleApp1\obj\Debug\netcoreapp2.1\Exercise.pdb

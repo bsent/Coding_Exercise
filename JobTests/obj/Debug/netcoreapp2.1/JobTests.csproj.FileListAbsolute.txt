@@ -1,0 +1,17 @@
+C:\Users\sentekib\source\repos\Exam\JobTests\obj\Debug\netcoreapp2.1\JobTests.csprojAssemblyReference.cache
+C:\Users\sentekib\source\repos\Exam\JobTests\obj\Debug\netcoreapp2.1\JobTests.csproj.CoreCompileInputs.cache
+C:\Users\sentekib\source\repos\Exam\JobTests\obj\Debug\netcoreapp2.1\JobTests.AssemblyInfoInputs.cache
+C:\Users\sentekib\source\repos\Exam\JobTests\obj\Debug\netcoreapp2.1\JobTests.AssemblyInfo.cs
+C:\Users\sentekib\source\repos\Exam\JobTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sentekib\source\repos\Exam\JobTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sentekib\source\repos\Exam\JobTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sentekib\source\repos\Exam\JobTests\bin\Debug\netcoreapp2.1\JobTests.deps.json
+C:\Users\sentekib\source\repos\Exam\JobTests\bin\Debug\netcoreapp2.1\JobTests.runtimeconfig.json
+C:\Users\sentekib\source\repos\Exam\JobTests\bin\Debug\netcoreapp2.1\JobTests.runtimeconfig.dev.json
+C:\Users\sentekib\source\repos\Exam\JobTests\bin\Debug\netcoreapp2.1\JobTests.dll
+C:\Users\sentekib\source\repos\Exam\JobTests\bin\Debug\netcoreapp2.1\JobTests.pdb
+C:\Users\sentekib\source\repos\Exam\JobTests\bin\Debug\netcoreapp2.1\JobLib.dll
+C:\Users\sentekib\source\repos\Exam\JobTests\bin\Debug\netcoreapp2.1\JobLib.pdb
+C:\Users\sentekib\source\repos\Exam\JobTests\obj\Debug\netcoreapp2.1\JobTests.csproj.CopyComplete
+C:\Users\sentekib\source\repos\Exam\JobTests\obj\Debug\netcoreapp2.1\JobTests.dll
+C:\Users\sentekib\source\repos\Exam\JobTests\obj\Debug\netcoreapp2.1\JobTests.pdb

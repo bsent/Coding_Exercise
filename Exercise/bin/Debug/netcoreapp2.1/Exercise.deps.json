@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Exercise/1.0.0": {
+        "dependencies": {
+          "JobLib": "1.0.0"
+        },
+        "runtime": {
+          "Exercise.dll": {}
+        }
+      },
+      "JobLib/1.0.0": {
+        "runtime": {
+          "JobLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JobLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
