@@ -1,7 +1,7 @@
 About Coding Exercise :
 -------------------
 
-This coding exercise regarding  the coding_exercise.md answers.
+This coding regarding  the coding_exercise.md answers.
 
 
 Prerequisites:
