@@ -1,0 +1,71 @@
+@page
+@model Exercise.Pages.IndexModel
+@{
+    ViewData["Title"] = "Job Executor";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<hr />
+
+<h3>Predefined Job Bundles</h3>
+<form method="post">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Bundle Number</th>
+                <th>Pattern</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.PredefinedBundles != null)
+            {
+                foreach (var bundle in Model.PredefinedBundles)
+                {
+                    <tr>
+                        <td>@bundle.Key</td>
+                        <td><pre style="white-space: pre-wrap; word-break: break-all;">@bundle.Value</pre></td>
+                        <td>
+                            <button type="submit" asp-page-handler="ExecuteBundle" asp-route-SelectedBundle="@bundle.Key" class="btn btn-primary btn-sm">Execute</button>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="3">No predefined bundles loaded.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</form>
+
+<hr />
+
+<h3>Execute Custom Job Pattern</h3>
+<form method="post" asp-page-handler="ExecuteCustomPattern">
+    <div class="form-group">
+        <label asp-for="CustomPattern">Enter Job Pattern:</label>
+        <textarea asp-for="CustomPattern" class="form-control" rows="3"></textarea>
+    </div>
+    <button type="submit" class="btn btn-success">Execute Custom Pattern</button>
+</form>
+
+<hr />
+
+@if (!string.IsNullOrEmpty(Model.ExecutionResult))
+{
+    <h3>Execution Result</h3>
+    <pre>@Model.ExecutionResult</pre>
+}
+else
+{
+    <h3>Execution Result</h3>
+    <p>No job executed yet, or the result was empty.</p>
+}
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}
